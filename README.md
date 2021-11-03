@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Problem Solving Skills.
 - 📫 How to reach me: naimashaikh550@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I cook really good food.
