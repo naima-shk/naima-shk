@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Front-end.
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on Open source projects.
+- 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m looking for help with Problem Solving Skills.
 - 📫 How to reach me: naimashaikh550@gmail.com
 - 😄 Pronouns: she/her
